@@ -1,0 +1,15 @@
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 34.68 34.68">
+  <defs>
+    <symbol id="fromage_carte" data-name="fromage_carte" viewBox="0 0 19.63 19.82">
+      <path d="M18.25,13.3a1.64,1.64,0,0,1,1-1.65V9.21L11.11,0,.27,3.36c-1,1.12,1.21,10.21,1.21,10.21l17.8,6.25V14.94A1.62,1.62,0,0,1,18.25,13.3Z" style="fill: #edc882"/>
+      <ellipse cx="9.43" cy="3.96" rx="1.59" ry="0.77" style="fill: #6b564c"/>
+      <ellipse cx="4.62" cy="9.98" rx="1.33" ry="1.64" style="fill: #6b564c"/>
+      <ellipse cx="13.52" cy="13.3" rx="1.12" ry="1.68" style="fill: #6b564c"/>
+      <ellipse cx="8.49" cy="14.5" rx="0.65" ry="1.2" style="fill: #6b564c"/>
+      <ellipse cx="13.42" cy="7.58" rx="1.71" ry="0.75" style="fill: #6b564c"/>
+      <path d="M.27,3.36S7.41,8.44,19.63,9.9v.55S2.94,7.58.27,3.36Z" style="fill: #756157"/>
+    </symbol>
+  </defs>
+  <circle cx="17.34" cy="17.34" r="16.34" style="fill: #edefda;stroke: #1f9eaa;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <use width="19.63" height="19.82" transform="translate(5.82 5.34) scale(1.13)" xlink:href="#fromage_carte"/>
+</svg>
