@@ -1,0 +1,18 @@
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 34.68 34.68">
+  <defs>
+    <symbol id="vin" data-name="vin" viewBox="0 0 130.34 220">
+      <path d="M38,12.17H21.44v18H38Z" style="fill: #a93c17"/>
+      <path d="M38,31.74V30.19H21.41v1.55s-.24,6.68-1.09,14.45H39.09C38.24,38.42,38,31.74,38,31.74Z" style="fill: #a93c17"/>
+      <path d="M44.47,68.17c-2.83-3.89-4.47-13.57-5.38-22H20.32c-.91,8.41-2.55,18.09-5.38,22C9.49,75.66,1,87.57.3,97.11S.3,220,.3,220H59.11s.68-113.36,0-122.89S49.91,75.66,44.47,68.17Z" style="fill: #1f9eaa"/>
+      <rect x="19.26" y="8.6" width="20.9" height="7.15" rx="2.89" style="fill: #a93c17"/>
+      <rect x="21.44" width="16.53" height="9.42" style="fill: #a93c17"/>
+      <rect x="7.79" y="109.02" width="44.94" height="59.76" style="fill: #f7e2c3"/>
+      <path d="M127.81,133.1c4.76-13.38,1.36-46.21,1.36-46.21H80.3s-3.4,32.83,1.36,46.21,18.73,24.26,18.73,24.26v51.41S82.69,215.57,83,220h43.41c.34-4.43-17.36-11.23-17.36-11.23V157.36S123,146.47,127.81,133.1Z" style="fill: #1f9eaa"/>
+      <g id="Calque_133" data-name="Calque 133">
+        <path d="M125.55,114h-41S83.37,143,104,152.16h2.18C126.74,143,125.55,114,125.55,114Z" style="fill: #a93c17"/>
+      </g>
+    </symbol>
+  </defs>
+  <circle cx="17.34" cy="17.34" r="16.34" style="fill: #edefda;stroke: #a93c17;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <use width="130.35" height="220" transform="translate(9.99 4.26) scale(0.11)" xlink:href="#vin"/>
+</svg>
